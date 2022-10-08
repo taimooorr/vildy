@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Vildy is Fake Movies database Web App builed with React
+this app is Part of Learning React journey 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
